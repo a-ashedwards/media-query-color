@@ -75,6 +75,11 @@ footer {
     background-color: darkslateblue;
   }
 
+  .col-3 {
+    width: 50%;
+    margin-right: 50%;
+  }
+
   footer {
     background-color: darkgray;
   }
@@ -98,6 +103,11 @@ footer {
 
   #column-3 {
     background-color: darkslateblue ;
+  }
+
+  .col-3 {
+    width: 33.33%;
+    margin-right: 66%;
   }
 
   footer {
